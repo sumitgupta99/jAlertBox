@@ -1,0 +1,25 @@
+{
+  "name": "jalertbox",
+  "version": "1.0.0",
+  "description": "Javascript Simple Alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitgupta99/jAlertBox.git"
+  },
+  "keywords": [
+    "alert",
+    "popup",
+    "jsalert",
+    "notify"
+  ],
+  "author": "Sumit Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumitgupta99/jAlertBox/issues"
+  },
+  "homepage": "https://github.com/sumitgupta99/jAlertBox#readme"
+}
